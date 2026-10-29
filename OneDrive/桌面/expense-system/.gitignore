@@ -1,0 +1,9 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+.env
+
+# 作業系統
+Thumbs.db
+*.DS_Store
